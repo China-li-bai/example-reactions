@@ -13,7 +13,7 @@
   },
   "devDependencies": {
     "@types/lodash": "^4.14.202",
-    "partykit": "^0.0.90",
+    "partykit": "^0.0.115",
     "typescript": "^5.3.3"
   }
 }
